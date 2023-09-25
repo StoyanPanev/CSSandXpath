@@ -24,4 +24,4 @@ CSS $$('img[src="https://i.imgur.com/j9omveX.jpg"]')
 
 Follow button
 Xpath $x("//button[contains(@class, 'btn') and contains(@class, 'btn-primary') and contains(@class, 'ng-star-inserted')]")
-CSS $$("button.btn.btn-primary.ng-star-inserted"
+CSS $$("button.btn.btn-primary.ng-star-inserted")
